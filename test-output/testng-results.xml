@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-09T00:20:10 PDT" name="Default suite" finished-at="2022-05-09T00:20:49 PDT" duration-ms="39476">
+    <groups>
+    </groups>
+    <test started-at="2022-05-09T00:20:10 PDT" name="Default test" finished-at="2022-05-09T00:20:49 PDT" duration-ms="39476">
+      <class name="tests.InsuranceProjectTest">
+        <test-method is-config="true" signature="InitializeBrowser()[pri:0, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:04 PDT" name="InitializeBrowser" finished-at="2022-05-09T00:20:10 PDT" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeBrowser -->
+        <test-method signature="RunUserRegistrationTest()[pri:0, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:10 PDT" name="RunUserRegistrationTest" finished-at="2022-05-09T00:20:19 PDT" duration-ms="8667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunUserRegistrationTest -->
+        <test-method signature="RunLoginTest()[pri:1, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:19 PDT" name="RunLoginTest" finished-at="2022-05-09T00:20:24 PDT" duration-ms="5521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunLoginTest -->
+        <test-method signature="RunUpdateLocation()[pri:2, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:24 PDT" name="RunUpdateLocation" finished-at="2022-05-09T00:20:30 PDT" duration-ms="6203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunUpdateLocation -->
+        <test-method signature="RunApplyInsuranceTest()[pri:3, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:30 PDT" name="RunApplyInsuranceTest" finished-at="2022-05-09T00:20:38 PDT" duration-ms="7773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunApplyInsuranceTest -->
+        <test-method signature="RunUpdateProfileTest()[pri:4, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:38 PDT" name="RunUpdateProfileTest" finished-at="2022-05-09T00:20:44 PDT" duration-ms="5873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunUpdateProfileTest -->
+        <test-method signature="RunLogoutTest()[pri:5, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:44 PDT" name="RunLogoutTest" finished-at="2022-05-09T00:20:49 PDT" duration-ms="5328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunLogoutTest -->
+        <test-method is-config="true" signature="CloseBrowserSession()[pri:0, instance:tests.InsuranceProjectTest@bae7dc0]" started-at="2022-05-09T00:20:49 PDT" name="CloseBrowserSession" finished-at="2022-05-09T00:20:55 PDT" duration-ms="5263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowserSession -->
+      </class> <!-- tests.InsuranceProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
